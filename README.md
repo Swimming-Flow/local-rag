@@ -10,7 +10,7 @@ This is a simple tool to search PDF files using both AI (semantic search) and ke
 3. Install requirements:
    ```bash
    pip install -r requirements.txt
-````
+   ```
 
 ## How to Use
 
