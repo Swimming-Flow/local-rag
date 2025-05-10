@@ -36,7 +36,7 @@ Sure! Here's a short and simple explanation that includes the tuner:
 
 ---
 
-## 🛠️ How It Works (Quick Overview)
+## How It Works (Quick Overview)
 
 1. **Preprocessing**:
 
